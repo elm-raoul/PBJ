@@ -1,7 +1,7 @@
 # PBJ
-Application Web pour la commande en ligne - Restaurant FICTIF\n
+Application Web pour la commande en ligne - Restaurant FICTIF
 
-Vous pouvez accéder à l'application via ce lien:\n
+Vous pouvez accéder à l'application via ce lien:
 
 https://pbj.infinityfreeapp.com/
 
